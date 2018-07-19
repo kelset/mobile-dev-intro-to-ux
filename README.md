@@ -42,6 +42,8 @@ This list is the "extra stuff list" that accompanies my Medium article on the su
 
 ### Step 2: if you are reading this, it means you like things outside programming
 
-📹 "How Great Games Beat The Grind" by [Adam Millard](https://www.youtube.com/user/Thefearalcarrot) - [youtube](https://www.youtube.com/watch?v=nP1qLrXaDvE)
+📹 "How Great Games Beat The Grind" by [Adam Millard](https://www.youtube.com/user/Thefearalcarrot) - [youtube](https://www.youtube.com/watch?v=4NGe4dzlukc)
+
+📹 "Making Games Better for the Deaf and Hard of Hearing | Designing for Disability" by [Mark Brown](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw) - [youtube](https://www.youtube.com/watch?v=nP1qLrXaDvE)
 
 📗 "The App Generation" by [Howard Gardner](https://twitter.com/DrHowardGardner) and [Katie Davis](https://twitter.com/katiebda), Yale University Press - [website](https://yalebooks.yale.edu/book/9780300209341/app-generation)
