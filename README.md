@@ -14,17 +14,23 @@ This list is the "extra stuff list" that accompanies my Medium article on the su
 
 📑 Navigation in iOS - [documentation](https://developer.apple.com/ios/human-interface-guidelines/app-architecture/navigation/)
 
+📝 "How to make your app lovable" by [Enchant](https://www.enchant.com/) - [article](https://www.enchant.com/blog/app-clarity)
+
 📝 "Your app makes me fat" by Serious Pony (Kathy Sierra) - [article](http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat)
 
 📝 "Has dopamine got us hooked on tech?" by [Simon Parkin](https://twitter.com/SimonParkin) - [article](https://www.theguardian.com/technology/2018/mar/04/has-dopamine-got-us-hooked-on-tech-facebook-apps-addiction)
+
+📝 "App Traps: How Cheap Smartphones Siphon User Data in Developing Countries" by [Newley Purnell](https://twitter.com/newley) - [article](https://www.wsj.com/articles/app-traps-how-cheap-smartphones-help-themselves-to-user-data-1530788404)
 
 ### Step 1: let's get out a bit
 
 📹 "Designer vs. Developer", a video series by Google Chrome Devs - [youtube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC60856GnLEV5GQXMxc9ByJ)
 
-📹 "Principles of mobile app design: Delight users and drive conversions - Google I/O 2016" by [Jenny Gove](https://twitter.com/jennylg) - [youtube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC60856GnLEV5GQXMxc9ByJ)
+📹 "Principles of mobile app design: Delight users and drive conversions - Google I/O 2016" by [Jenny Gove](https://twitter.com/jennylg) - [youtube](https://www.youtube.com/watch?v=u7iUoxqKaKU&t=1221s)
 
 📝 "Principles of User Interface Design" by [Joshua Porter](https://twitter.com/bokardo) - [website](http://bokardo.com/principles-of-user-interface-design/)
+
+📝 "Products That Surprise Us Win Our Hearts, Here's Why" by [Mo Rajabifard](https://twitter.com/morajabi) - [blogpost](https://morajabi.im/blog/products-that-surprise-win-hearts)
 
 📑 "Google design" by G team - [medium blog](https://medium.com/google-design)
 
