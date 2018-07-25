@@ -32,6 +32,8 @@ This list is the "extra stuff list" that accompanies my Medium article on the su
 
 📝 "Products That Surprise Us Win Our Hearts, Here's Why" by [Mo Rajabifard](https://twitter.com/morajabi) - [blogpost](https://morajabi.im/blog/products-that-surprise-win-hearts)
 
+📝 "Why Japanese Web Design Is So… Different" by [David](https://twitter.com/randomwire) - [article](https://randomwire.com/why-japanese-web-design-is-so-different/)
+
 📑 "Google design" by G team - [medium blog](https://medium.com/google-design)
 
 ✍️ "UX London Sketchnotes" by [Maggie Appleton](https://twitter.com/Mappletons) - [notes](http://maggieappleton.com/project/uxlondon-sketchnotes)
