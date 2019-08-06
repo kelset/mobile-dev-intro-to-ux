@@ -30,6 +30,8 @@ This list is the "extra stuff list" that accompanies my Medium article on the su
 
 📝 "Principles of User Interface Design" by [Joshua Porter](https://twitter.com/bokardo) - [website](http://bokardo.com/principles-of-user-interface-design/)
 
+📝 "7 Practical Tips for Cheating at Design" by [Adam Wathan & Steve Schoger](https://medium.com/@refactoringui) - [article](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+
 📝 "Products That Surprise Us Win Our Hearts, Here's Why" by [Mo Rajabifard](https://twitter.com/morajabi) - [blogpost](https://morajabi.im/blog/products-that-surprise-win-hearts)
 
 📝 "Why Japanese Web Design Is So… Different" by [David](https://twitter.com/randomwire) - [article](https://randomwire.com/why-japanese-web-design-is-so-different/)
